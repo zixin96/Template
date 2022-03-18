@@ -1,0 +1,24 @@
+[submodule "GraphicsEngine/Vendor/assimp"]
+    path = GraphicsEngine/Vendor/assimp
+    url = https://github.com/assimp/assimp.git
+    branch = master
+[submodule "GraphicsEngine/Vendor/glad"]
+    path = GraphicsEngine/Vendor/glad
+    url = https://github.com/Dav1dde/glad.git
+    branch = c
+[submodule "GraphicsEngine/Vendor/glfw"]
+    path = GraphicsEngine/Vendor/glfw
+    url = https://github.com/glfw/glfw.git
+    branch = master
+[submodule "GraphicsEngine/Vendor/glm"]
+    path = GraphicsEngine/Vendor/glm
+    url = https://github.com/g-truc/glm.git
+    branch = master
+[submodule "GraphicsEngine/Vendor/stb"]
+    path = GraphicsEngine/Vendor/stb
+    url = https://github.com/nothings/stb.git
+    branch = master
+[submodule "GraphicsEngine/Vendor/bullet"]
+    path = GraphicsEngine/Vendor/bullet
+    url = https://github.com/bulletphysics/bullet3.git
+    branch = master
