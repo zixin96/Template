@@ -22,3 +22,7 @@
     path = GraphicsEngine/Vendor/bullet
     url = https://github.com/bulletphysics/bullet3.git
     branch = master
+[submodule "GraphicsEngine/Vendor/imgui"]
+	path = GraphicsEngine/Vendor/imgui
+	url = https://github.com/ocornut/imgui
+	branch = docking
